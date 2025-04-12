@@ -33,7 +33,7 @@ export default function Header({ height, onToggleSidebar }: HeaderProps) {
           >
             <Menu className="h-5 w-5" />
           </button>
-          <h1 className="text-lg font-semibold">Seepossible</h1>
+          <h6 className="text-lg font-semibold">KK Brother & Corporation</h6>
         </div>
         <div className="flex items-center gap-4">        
           <Button 

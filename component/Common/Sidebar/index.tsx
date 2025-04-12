@@ -22,7 +22,7 @@ export default function Sidebar({ collapsed, onToggle, width }: SidebarProps) {
     },
     {
       name: 'Products',
-      href: '/products',
+      href: '/product',
       icon: <Package className="h-5 w-5" />,
       active: pathname.startsWith('/products'),
     }
